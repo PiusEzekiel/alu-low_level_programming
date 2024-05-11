@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * comment
- * 
- * second comment
+ * comment - comment
+ *
+ * second: comment hhh
  */
-int main(void) 
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);

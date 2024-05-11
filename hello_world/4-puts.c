@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * comment - comment
+ * main - comment
  *
- * second: comment hhh
+ * return: Always 0 (Success)
  */
 int main(void)
 {

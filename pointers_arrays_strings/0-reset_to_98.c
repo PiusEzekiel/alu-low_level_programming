@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * 0-reset_to_98 - check the code
  *
  * @n: An integer input pointer
  *

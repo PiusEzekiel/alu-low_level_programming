@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
+/**
  * swap_int - swapping two ints
- * 
+ *
  * @a: one of the ints
  *
  * @b: 2nd int

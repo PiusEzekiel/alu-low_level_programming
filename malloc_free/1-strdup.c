@@ -3,7 +3,7 @@
 
 /**
  * _strdup - function that returns a pointer to a new string
- * @strr: the new string
+ * @str: the new string
  * Return: void
  */
 

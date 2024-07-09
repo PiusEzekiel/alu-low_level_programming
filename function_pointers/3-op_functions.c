@@ -58,5 +58,15 @@ int op_div(int a, int b)
 */
 int op_mod(int a, int b)
 {
+	if (b == 0)
+	{
+		_putchar('E');
+		_putchar('r');
+		_putchar('r');
+		_putchar('o');
+		_putchar('r');
+		_putchar('\n');
+		exit(100);
+	}
 	return (a % b);
 }
